@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Chimic0
+- 👀 I’m interested in chemistry and developing.
+- 🌱 I’m currently a full stack web development student.
+- 📫 Contact me with e-mail: raoulpicconi03@gmail.com
