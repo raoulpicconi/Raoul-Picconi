@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Chimic0
-- 👀 I’m interested in chemistry and developing.
+- 👋 Hi, I’m @raoulpicconi
+- 👀 I’m interested in developing.
 - 🌱 I’m currently a blockchain development student.
 - 📫 Contact me with e-mail: raoulpicconi03@gmail.com
